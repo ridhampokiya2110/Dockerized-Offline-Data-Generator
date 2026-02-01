@@ -14,14 +14,6 @@ This project demonstrates the core concepts of **Containerization**, **Dockerfil
 
 ---
 
-## 📂 Project Structure
-```text
-docker-offline-bot/
-├── app.py             # The Python script (logic generator)
-├── Dockerfile         # Instructions to build the Docker image
-└── README.md          # Project documentation
-🛠️ Prerequisites
-Docker Desktop installed on your machine.
 
 ⚙️ How to Run
 1. Build the Docker Image
